@@ -32,7 +32,7 @@ tests/
 
 ## Requirements
 
-- Python 3.11 or newer
+- Python 3.11 to 3.13 recommended
 - `pip`
 
 ## Run The Application
