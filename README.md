@@ -64,7 +64,7 @@ Copy-Item .env.example .env
 5. Start the API:
 
 ```powershell
-uvicorn app.main:app --reload
+python -m uvicorn app.main:app --reload
 ```
 
 6. Open the docs:
