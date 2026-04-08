@@ -11,7 +11,6 @@ This project implements the Eastvantage FastAPI assignment as a small address bo
 - Nearby address search by latitude, longitude, and distance in kilometers
 - Environment-based configuration
 - Application logging for major request and persistence events
-- Basic API tests with `pytest`
 
 ## Project Structure
 
@@ -26,8 +25,6 @@ app/
   models.py
   schemas.py
   services/address_service.py
-tests/
-  test_api.py
 ```
 
 ## Requirements
